@@ -1,0 +1,2 @@
+# Wasabi-issue
+HI, I recently after a coin join then removed .99 btc from wasabi, and for a while it was in the History tab waiting for confirmation, but then I exited and signed back in, and the transaction is not there, as well as my assets not in wasabi wallet. Also was dealing with issue of SPENT coins which were not confirming, even after days of exiting and rebooting app. I decided to send those SPENT coins in this .99 withdrawal, not sure if there is a connection, but would like to know where my assets are
